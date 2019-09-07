@@ -1,0 +1,7 @@
+https://www.datacamp.com/courses/machine-learning-for-time-series-data-in-python
+
+https://www.datacamp.com/courses/foundations-of-probability-in-python
+
+https://www.datacamp.com/courses/dimensionality-reduction-in-python
+
+https://www.datacamp.com/courses/designing-machine-learning-workflows-in-python
